@@ -12,10 +12,11 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-https://komarev.com/ghpvc/?username=your-github-username
+  https://komarev.com/ghpvc/?username=your-github-username
 Adicione o código abaixo após a <div>tag com id="badges". Certifique-se de substituir your-github-usernamepelo seu nome de usuário:
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 
 
