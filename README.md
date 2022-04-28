@@ -3,14 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/guilherme-f-81b2aa19a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <div>
  <img src="https://komarev.com/ghpvc/?username=glhermeI&style=flat-square&color=blue" alt=""/>
@@ -56,6 +50,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=glhermeI&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&background=000000&border=2FDDD8&stroke=6D6D6D&ring=DDDDDD&currStreakNum=DDDDDD&sideNums=DD0000&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=62E4FF)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glhermeI)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glhermeI&layout=compact&theme=vision-friendly-dark)](https://github.com/glhermeI/github-readme-stats)
 
 </div>
